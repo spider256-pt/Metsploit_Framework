@@ -52,9 +52,9 @@ The `Metasploit Project` is Ruby-based, modular penetration testing platform tha
 		![plugins](https://github.com/spider256-pt/Metsploit_Framework/blob/19d1aefbc93411e5853e40d2bac4967db362ec40/images/Screenshot%202025-09-25%20193338.png)
 
 - #### Scripts:
-	
 	- Meterpreter functionality and other useful scripts
-		 ![scripts](https://github.com/spider256-pt/Metsploit_Framework/blob/19d1aefbc93411e5853e40d2bac4967db362ec40/images/Screenshot%202025-09-25%20193516.png)
+ 
+	![scripts](https://github.com/spider256-pt/Metsploit_Framework/blob/19d1aefbc93411e5853e40d2bac4967db362ec40/images/Screenshot%202025-09-25%20193516.png)
 
 - #### Tools:
 	
