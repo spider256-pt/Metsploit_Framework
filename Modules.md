@@ -53,7 +53,7 @@
 - ###### `syntax`:
 	- `search <keyword>`
 	- `help search`
-		![[Screenshot 2025-09-25 225627 1.png]]
+		![help](https://github.com/spider256-pt/Metsploit_Framework/blob/db0b0c345c21e080fff74e386701a4b43b24c321/images/Screenshot%202025-09-25%20225627.png)
 	
 - ## Specific search:
 	- The search can be mad a bit more coarse and reduce it to one category of the service.
