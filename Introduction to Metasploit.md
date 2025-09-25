@@ -35,7 +35,7 @@ The `Metasploit Project` is Ruby-based, modular penetration testing platform tha
 - #### Modules:
 	
 	- Are the proof-of-concept and actual exploit.
-		![[Screenshot 2025-09-25 192729.png]]
+	![images](https://github.com/spider256-pt/Metsploit_Framework/blob/19d1aefbc93411e5853e40d2bac4967db362ec40/images/Screenshot%202025-09-25%20192729.png)
 		- They are the modules of the metasploit-framework
 			- `auxiliary`
 			- `encoders`
@@ -49,14 +49,14 @@ The `Metasploit Project` is Ruby-based, modular penetration testing platform tha
 	
 	- Plugins offer Pentester more flexibility when using the msfconsole
 	- They can easily be manually or automatically loaded as per the functionality and automation.
-		![[Screenshot 2025-09-25 193338.png]]
+		![plugins](https://github.com/spider256-pt/Metsploit_Framework/blob/19d1aefbc93411e5853e40d2bac4967db362ec40/images/Screenshot%202025-09-25%20193338.png)
 
 - #### Scripts:
 	
 	- Meterpreter functionality and other useful scripts
-		 ![[Screenshot 2025-09-25 193516.png]]
+		 ![scripts](https://github.com/spider256-pt/Metsploit_Framework/blob/19d1aefbc93411e5853e40d2bac4967db362ec40/images/Screenshot%202025-09-25%20193516.png)
 
 - #### Tools:
 	
 	- Command-line utilities that can be called directly from the msfconsole.
-		![[Screenshot 2025-09-25 193643.png]]
+		![tools](https://github.com/spider256-pt/Metsploit_Framework/blob/19d1aefbc93411e5853e40d2bac4967db362ec40/images/Screenshot%202025-09-25%20193643.png)
